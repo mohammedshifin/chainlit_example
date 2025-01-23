@@ -1,0 +1,20 @@
+{
+    "username1": {
+        "password": "password1",
+        "role": ["gpt-4o","gpt-4o-mini","gpt-3.5-turbo"]
+
+    },
+    "username2": {
+        "password": "password2",
+        "role": ["gpt-4o-mini"]
+    },
+    "user3": {
+        "password": "user3",
+        "role": ["gpt-3.5-turbo"]
+
+    },
+    "user4": {
+        "password": "user4",
+        "role": ["gpt-4o","gpt-4o-mini","gpt-3.5-turbo"]
+    }
+}
